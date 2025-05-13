@@ -1,4 +1,3 @@
-````markdown
 # FastAPI Auth Demo
 
 پروژه‌ای برای پیاده‌سازی سیستم احراز هویت امن با FastAPI، JWT و OAuth2.
@@ -64,5 +63,3 @@ uvicorn app.main:app --reload
 * دسترسی نقش‌محور
 * مستندسازی Swagger
 
-```
-```
